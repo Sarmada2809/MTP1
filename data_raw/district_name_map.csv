@@ -1,0 +1,24 @@
+shapefile_code,final_name,matched_by,name_match,vote_match,n_clusters,agree
+ALIPUR DUAR,Jalpaiguri,name,Jalpaiguri,Jalpaiguri,17,True
+BANKURA,Bankura,name,Bankura,Bankura,42,True
+BIRBHUM,Birbhum,name,Birbhum,Birbhum,42,True
+DAKSHIN DINAJPUR,Dakshin Dinajpur,name,Dakshin Dinajpur,Dakshin Dinajpur,42,True
+DARJILING,Darjiling,name,Darjiling,Darjiling,37,True
+HAORA,Haora,name,Haora,Haora,42,True
+HUGLI,Hugli,name,Hugli,Hugli,41,True
+JALPAIGURI,Jalpaiguri,name,Jalpaiguri,Jalpaiguri,27,True
+JHARGRAM,Paschim Medinipur,name,Paschim Medinipur,Paschim Medinipur,7,True
+KALIMPONG,Darjiling,name,Darjiling,Darjiling,4,True
+KOCH BIHAR,Koch Bihar,name,Koch Bihar,Koch Bihar,42,True
+KOLKATA,Kolkata,name,Kolkata,Kolkata,39,True
+MALDAH,Maldah,name,Maldah,Maldah,42,True
+MURSHIDABAD,Murshidabad,name,Murshidabad,Murshidabad,42,True
+NADIA,Nadia,name,Nadia,Nadia,42,True
+NORTH TWENTY-FOUR PARGANAS,North Twenty Four Parganas,name,North Twenty Four Parganas,North Twenty Four Parganas,44,True
+PASCHIM BARDDHAMAN,Paschim Barddhaman,name,Paschim Barddhaman,Paschim Barddhaman,44,True
+PASCHIM MEDINIPUR,Paschim Medinipur,name,Paschim Medinipur,Paschim Medinipur,35,True
+PURBA BARDDHAMAN,Purba Barddhaman,name,Purba Barddhaman,Purba Barddhaman,40,True
+PURBA MEDINIPUR,Purba Medinipur,name,Purba Medinipur,Purba Medinipur,42,True
+PURULIYA,Puruliya,name,Puruliya,Puruliya,42,True
+SOUTH TWENTY FOUR PARGANAS,South Twenty Four Parganas,name,South Twenty Four Parganas,South Twenty Four Parganas,43,True
+UTTAR DINAJPUR,Uttar Dinajpur,name,Uttar Dinajpur,Uttar Dinajpur,42,True

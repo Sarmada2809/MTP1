@@ -1,0 +1,7 @@
+model,n_features,R2_mean,R2_sd,MAE_mean,MAE_sd,RMSE_mean,RMSE_sd
+baseline_mean_prediction,0,-0.0136,0.0082,13.5351,0.0623,17.4835,0.0704
+baseline_linear_on_NTL,1,0.471,0.0062,9.7276,0.0674,12.6312,0.0737
+RF_A_ntl_only_spatialCV,6,0.4501,0.0142,9.9355,0.1341,12.8772,0.1668
+RF_B_paper_ntl_landcover_spatialCV,14,0.5137,0.0124,9.1697,0.1039,12.1094,0.1539
+"RF_B_paper_RANDOM_CV (leaky, paper-style)",14,0.5332,0.0074,8.9664,0.056,11.8652,0.0946
+RF_C_extended_spatialCV,20,0.5219,0.0099,9.0925,0.0969,12.0077,0.1235
